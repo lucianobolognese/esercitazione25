@@ -1,0 +1,1 @@
+Valiant si è laureato in matematica al King's College di Cambridge nel 1970, si è specializzato nel 1971 in informatica presso l'Imperial College of Science di Londra e ha conseguito il dottorato di ricerca nel 1973 all'Università di Warwick.
