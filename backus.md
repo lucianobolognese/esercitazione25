@@ -9,3 +9,5 @@ Nel corso degli anni settanta, Backus si interessò soprattutto alla programmazi
 Backus viene a mancare il 17 marzo 2007 nella sua casa ad Ashland, nell'Oregon, probabilmente a causa dell'età avanzata.
 
 ![Foto](https://upload.wikimedia.org/wikipedia/commons/b/b2/John_Backus_2.jpg)
+
+Adsaf
