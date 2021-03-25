@@ -6,3 +6,30 @@ LCF, the mechanization of Scott's Logic of Computable Functions, probably the fi
 ML, the first language to include polymorphic type inference together with a type-safe exception-handling mechanism;
 CCS, a general theory of concurrency.
 In addition, he formulated and strongly advanced full abstraction, the study of the relationship between operational and denotational semantics.
+
+Working in challenging areas of computer science for twenty years, Robin Milner has established an international reputation for three distinct achievements, each of which has had a marked, important, and widespread effect on both the theory and practice of computer science. In addition, he formulated and strongly advanced full abstraction, the study of the relationship between denotational semantics (which formalizes the meaning of programs using abstract mathematical descriptions of behavior called denotations), and operational semantics (which models program execution).
+
+A key ingredient in all of his work has been his ability to combine deep insight into mathematical foundations of the subject with an equally deep understanding  of practical and aesthetic issues, thus allowing the feedback of theory into practice in an exciting way. Further, his style of scholarship, rigor, and attention to detail sets a high example for all to follow.
+
+Milner was born into a military family residing on the South coast of England. He was awarded a scholarship to Eton College in 1947, and subsequently served in the Royal Engineers, attaining the rank of Second Lieutenant. He then enrolled at King's College, Cambridge, graduating in 1957. At Cambridge, Milner studied Mathematics (B.Sc.), then Moral Sciences (Philosophy) (Part II).
+
+His first encounter with computing, as an undergraduate in 1956, was uninspiring. He took a 10-day course in programming on Maurice Wilkes’ EDSAC (Electronic Delay Storage Automatic Calculator). His reaction was characteristically decisive: “Programming was not a very beautiful thing. I resolved I would never go near a computer in my life.” He found the activity of “writing one instruction after the other” to be “inelegant” and “arbitrary”.
+
+Robin was, however, interested in tools as prosthetic devices that serve to extend our reach. He was intensely practical, as evidenced by the wooden geometric shapes on the light-strings on his lamps, and the comprehensive collection of chisels, gimlets and awls arranged neatly in the utility room (a spotlessly clean workshop that also served as the laundry) in his Cambridge home. Robin later became fascinated with computers as tools. He realized, very early, that that they were not just mere calculating devices, but could become ‘tools of the mind’.
+
+Milner never studied for a PhD. After one year as a school teacher, and two years of national service in Suez, his next engagement with computers came at the computer manufacturer Ferranti, where he “made sure that all the new machines they were selling were actually working,” and also wrote parts of a compiler. In 1963 he moved to academia with a passionate belief that a deeper understanding of programming could form the basis for a more elegant practice.
+
+At City University, London, he wondered how question-answering in databases might relate to relational algebra, but “didn’t get very far with that.” Then, at Swansea University in Wales, he began to publish on “program schemes,” an early flowchart-like operational model of computer programs.
+
+Milner went to Oxford to hear lectures from Christopher Strachey and Dana Scott, who had been thinking about computable functionals, an abstract mathematical model for the meaning (“denotational semantics”) of a program, and about a logic of computable functionals (LCF) for reasoning about “denotation” objects. Milner said that getting interested in program verification and semantics was the real start of his research career. At Swansea he wrote his first automatic theorem prover, but was still “shattered with the difficulty of doing anything interesting”.
+
+He was then invited to Stanford, where he spent two years (1971-1973) as a research associate with John McCarthy’s Artificial Intelligence Project. Milner was more interested in how human intelligence might be “amplified” than in what an artificial intelligence might achieve independently. Milner thought that machines might help humans apply the Scott-Strachey approach to denotational semantics to practical examples. The calculations required were laborious and error-prone, but many were mechanical and amenable to computerization.
+
+He started work, together with Whitfield Diffie, Richard Weyhrauch, and Malcolm Newey, on an implementation of Scott’s LCF which he described as
+
+…designed to allow the user interactively to generate formal proofs about computable functions and functionals over a variety of domains, including those of interest to the computer scientist - for example, integers, lists and computer programs and their semantics.
+
+This LCF proof-assistant included a sub-goaling facility that allowed the user to divide the search for a proof into searches for smaller subproofs, with the machine keeping track of how to put the pieces of the proof back together. It also included a powerful simplification mechanism that allowed the machine to shoulder the burden of performing the more routine calculations.
+
+The beauty of this architecture is that improvements in mechanization can easily be incorporated to build a more powerful assistant without invalidating existing proofs. Furthermore, patterns of proof can be coded as tactics that can be used in many proofs. Proof search is a combination of subgoaling and simplification steps. A tactic (an example might be induction on n) automates some combination of steps. Tactics allow common patterns to be reused; they are not simply a list of one instruction after the other. These ideas have themselves been reused, and built upon, to create proof assistants for a variety of logics.
+
