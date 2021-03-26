@@ -1,8 +1,12 @@
-# esercitazione25
-
 # Alan Turing
 
 Alan Mathison Turing (Londra, 23 giugno 1912 – Manchester, 7 giugno 1954) è stato un matematico, logico, crittografo e filosofo britannico, considerato uno dei padri dell'informatica e uno dei più grandi matematici del XX secolo.
+
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
+
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
+
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
 
 
 La firma di Alan Turing
@@ -89,3 +93,9 @@ sf
 sf
 
 ![Alan Turing](https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg)
+
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
+
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
+
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
