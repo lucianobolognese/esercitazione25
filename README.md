@@ -10,4 +10,8 @@ Il suo lavoro ebbe vasta influenza sulla nascita della disciplina dell'informati
 
 Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
 
-![Alan Turing](https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg)
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
+
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
+
+Turing lavorò infatti a Bletchley Park, il principale centro di crittoanalisi del Regno Unito, dove ideò una serie di tecniche per violare i cifrari tedeschi, incluso l'utilizzo di una macchina elettromeccanica (chiamata "Bomba") in grado di decodificare codici creati dalla macchina crittografica Enigma. Morì suicida a soli 41 anni, in seguito alle persecuzioni subite da parte delle autorità britanniche a causa della sua omosessualità.
